@@ -1,4 +1,4 @@
-# Freight Quote Agent — MK AI Lab Take-Home
+# Freight Quote Agent 
 
 Agentic workflow that ingests messy freight-rate/customs data into Neo4j and
 answers a shipping quote request by reasoning over the graph. See
@@ -118,4 +118,3 @@ before this touched production.
 > shipping August 2026. Cheapest valid option, and flag anything we should
 > know."
 
-See `mkailabtakehomeassignment.md.pdf` for the full brief.
