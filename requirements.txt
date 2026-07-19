@@ -1,0 +1,23 @@
+# graph db
+neo4j>=5.20
+
+# agent framework
+langgraph>=0.2
+langchain-core>=0.3
+
+# LLM client -- default provider is Groq (LLM_PROVIDER=groq); Anthropic
+# also supported (LLM_PROVIDER=anthropic), or swap for langchain-ollama
+groq>=0.11
+anthropic>=0.34
+langchain-anthropic>=0.2
+
+# data + validation
+pandas>=2.2
+pydantic>=2.7
+python-dotenv>=1.0
+
+# live external data adapters (proof of concept -- src/ingest/external/)
+requests>=2.31
+
+# testing
+pytest>=8.0

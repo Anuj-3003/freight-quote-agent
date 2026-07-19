@@ -1,0 +1,9 @@
+carrier,origin,destination,rate_usd_per_kg,min_charge,weight_break_kg,valid_from,valid_to,notes
+OceanLink,SHA,NYC,4.20,85,45,2026-01-01,2026-06-30,
+OceanLink,SHA,NYC,3.80,85,100,2026-01-01,2026-06-30,
+OceanLink,SHA,NYC,3.10,85,300,01/07/2026,31/12/2026,rate revision H2
+TransGlobal,SHA,NYC,4.05,90,45,2026-01-15,2026-12-31,fuel surcharge included
+TransGlobal,Shanghai,New York,2.95,90,300,2026-01-15,2026-12-31,
+SwiftCargo,SHA,NYC,4.50,70,45,2026-03-01,,open-ended validity
+SwiftCargo,SHA,NYC,,70,100,2026-03-01,,TBD - contact pricing desk
+OceanLink,SHA,LAX,3.60,80,45,2026-01-01,2026-06-30,
